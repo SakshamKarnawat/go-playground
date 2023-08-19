@@ -1,0 +1,10 @@
+# Node related gitignore:
+node_modules
+npm-debug.log
+
+# Go related gitignore:
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib

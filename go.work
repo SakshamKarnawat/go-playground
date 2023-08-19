@@ -1,0 +1,30 @@
+go 1.21.0
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04mymaths
+	./05mytime
+	./06pointers
+	./07arrays
+	./08slices
+	./09maps
+	./10structs
+	./11conditional
+	./12loops
+	./13functions
+	./14methods
+	./15defer
+	./16files
+	./17webrequestss
+	./18urls
+	./19gowebserver
+	./20json
+	./21modules
+	./22apis
+	./23mongoapi
+	./24goroutines
+	./25mutex_await_groups
+	./26channels
+)
